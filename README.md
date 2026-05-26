@@ -1,4 +1,4 @@
-## Customer Segmentation (ML Clustering)
+## Customer Segmentation
 
 
 #### 1. Project Description
